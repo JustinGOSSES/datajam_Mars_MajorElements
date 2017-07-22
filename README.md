@@ -15,7 +15,9 @@ Major element data from all ChemCam rock sample data from start of MarsScienceLa
 Wanted to interactively view ratios of different oxides and view every sample but also view clusters within the whole. 
 
 ## Used
-Used pandas and python using the python language and built in the Jupyter notebook
+Used pandas and plot.ly using the python language and built in the Jupyter notebook
 
 ![plot image](https://github.com/JustinGOSSES/datajam_Mars_MajorElements/blob/master/ScreenShot_Plot.png)
 image https://github.com/JustinGOSSES/datajam_Mars_MajorElements/blob/master/ScreenShot_Plot.png
+
+The pink bits on the image above are dragable and expandable "brushes". The samples "brushed" are colored but the ones that are not appear gray. This provides a way to see clusters within the whole, which is messy. 
