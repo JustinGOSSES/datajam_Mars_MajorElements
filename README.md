@@ -26,6 +26,12 @@ image https://github.com/JustinGOSSES/datajam_Mars_MajorElements/blob/master/Scr
 
 - The color bar is based on "Sol" or martian day after first data collected
 
+
+![plot image](https://github.com/JustinGOSSES/datajam_Mars_MajorElements/blob/master/ScreenShot_HighCa_OnlyEarlyDay.png)
+image https://github.com/JustinGOSSES/datajam_Mars_MajorElements/blob/master/ScreenShot_HighCa_OnlyEarlyDay.png
+
+This plot shows that almost all the high CaO data comes from relatively early Sols.
+
 ## Future work
 This can be redone in Tableau, which would allow anyone to add in new data and/or control this visualization in concent with another type of visualization. An example would be someone could select a map area and then only show the points from within that map area on this plot. 
 
