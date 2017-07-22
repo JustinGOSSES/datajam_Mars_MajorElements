@@ -30,7 +30,10 @@ image https://github.com/JustinGOSSES/datajam_Mars_MajorElements/blob/master/Scr
 ![plot image](https://github.com/JustinGOSSES/datajam_Mars_MajorElements/blob/master/ScreenShot_HighCa_OnlyEarlyDay.png)
 image https://github.com/JustinGOSSES/datajam_Mars_MajorElements/blob/master/ScreenShot_HighCa_OnlyEarlyDay.png
 
-This plot shows that almost all the high CaO data comes from relatively early Sols.
+- This plot shows that almost all the high CaO data comes from relatively early Sols.
+- This suggests how this type of interactive plot could be used to ask questions and quickly get answers.
+- In the future, it would be better to look at this data with the color based on elevation or geologic section position as opposed to Sol. 
+
 
 ## Future work
 This can be redone in Tableau, which would allow anyone to add in new data and/or control this visualization in concent with another type of visualization. An example would be someone could select a map area and then only show the points from within that map area on this plot. 
