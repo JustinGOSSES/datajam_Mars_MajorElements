@@ -35,13 +35,19 @@ image https://github.com/JustinGOSSES/datajam_Mars_MajorElements/blob/master/Scr
 - In the future, it would be better to look at this data with the color based on elevation or geologic section position as opposed to Sol. 
 
 
-## Future work
-This can be redone in Tableau, which would allow anyone to add in new data and/or control this visualization in concent with another type of visualization. An example would be someone could select a map area and then only show the points from within that map area on this plot. 
+## Potential Future work
+- This can be redone in Tableau, which would allow anyone to add in new data and/or control this visualization in concent with another type of visualization. An example would be someone could select a map area and then only show the points from within that map area on this plot. 
+- Make additional fields based on ratios of major elements
+- Add a field based on Curisoity's eleveation on Sol of sampling. This would be slightly more geologically useful than Sol. Additionally, you could take additional data about direction and distance of laser strike and the rover's Z position to accurately find the sample elevation if you had a fairly accurate topographic map with sub-centimeter resolution. Ideally, you'd use a geologic cross-section depth number calculated by one of the Mars science team geologist's for each named Martian rock sampled. To my knowledge this last bit of information is not public yet?
+- You could use a database of Earth rocks and their rock type categorization to generate a first-pass rock type prediction of Martian rocks based on this dataset. You could even automate the prediction and have it be an optional overlay. 
+- Instead of showing every sample, only show an average for each rock as an option?
+- Display standard deviation and error on this visualization either by default or an option.
 
 ## How to install (will build this out later)
-- clone
-- cd into repo
-- If not already there, install python 3, pandas, jupyter, plotly
-- in terminal, type       jupyter notebook
-- place play to move through notebook and run cells
-- play around with pink "brush"
+- clone this repo
+- cd into the locally cloned repo
+- If not already installed on your machine, install python 3, pandas, jupyter, plotly
+- in terminal, type  jupyter notebook
+- follow directions in terminal to open a browser with the running jupyter notebook if it doesn't open automatically
+- press "play" to move through notebook and run cells
+- Once you get the visualization to display, move around, shrink, expand, and delete the pink "brush" in each field to highlight different samples.
