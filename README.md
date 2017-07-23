@@ -44,10 +44,11 @@ image https://github.com/JustinGOSSES/datajam_Mars_MajorElements/blob/master/Scr
 - Display standard deviation and error on this visualization either by default or an option.
 
 ## How to install (will build this out later)
-- clone this repo
+- clone this repo by typing in terminal - git clone https://github.com/JustinGOSSES/datajam_Mars_MajorElements
 - cd into the locally cloned repo
 - If not already installed on your machine, install python 3, pandas, jupyter, plotly
 - in terminal, type  jupyter notebook
-- follow directions in terminal to open a browser with the running jupyter notebook if it doesn't open automatically
-- press "play" to move through notebook and run cells
-- Once you get the visualization to display, move around, shrink, expand, and delete the pink "brush" in each field to highlight different samples.
+- follow the directions that appear in your terminal to open a browser with the running jupyter notebook url if it doesn't open automatically
+- press "play" to move through the notebook and run all the cells
+- Once you get the visualization to display, use the pink "brush" to change what samples are highlighted. 
+  - Clicking on the ends of each pink "brush" will expand its height. Clicking and holding on the center of it as your move the mouse will move it up and down. Each set in the parallel set can have a pink "brush". If there are multiple "brushes" only the samples that occur in all "brushes" will be highlighted. 
