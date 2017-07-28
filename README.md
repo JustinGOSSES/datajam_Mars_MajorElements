@@ -52,3 +52,8 @@ image https://github.com/JustinGOSSES/datajam_Mars_MajorElements/blob/master/Scr
 - press "play" to move through the notebook and run all the cells
 - Once you get the visualization to display, use the pink "brush" to change what samples are highlighted. 
   - Clicking on the ends of each pink "brush" will expand its height. Clicking and holding on the center of it as your move the mouse will move it up and down. Each set in the parallel set can have a pink "brush". If there are multiple "brushes" only the samples that occur in all "brushes" will be highlighted. 
+  
+ ## Link to live example
+ https://nbviewer.jupyter.org/github/JustinGOSSES/datajam_Mars_MajorElements/blob/master/index.ipynb
+ 
+ 
